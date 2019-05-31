@@ -1,4 +1,8 @@
 ###注释
 今天是儿童节，祝大家儿童节快乐！:)
+<<<<<<< HEAD
 哈哈哈！！！
 create new breanch dev..
+=======
+哈哈哈！
+>>>>>>> e0ac1ac532e9a5057bf405a9a7edffac690342f8
